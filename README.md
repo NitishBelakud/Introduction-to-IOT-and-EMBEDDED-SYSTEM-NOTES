@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/322c34ea-5dda-4ede-aba3-d404a1a0808b" />Introduction to the Internet of Things and Embedded Systems
+Introduction to the Internet of Things and Embedded Systems
 
 Course: Introduction to the Internet of Things and Embedded Systems  
 Authorized by University of California, Irvine (Coursera)
@@ -105,7 +105,7 @@ devices.
 TCP/IP is one of the most commonly used protocol stacks. TCP provides reliable
 data transmission, while IP handles addressing and routing. UDP is also used in
 IoT applications where low latency is more important than reliability.
-<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/ae24b4fe-b74f-4f69-86e1-f041f1033c5a" />
+
 
 The OSI model is a conceptual framework that explains how data flows through
 different layers in a network. Each layer has a specific function, such as
@@ -115,6 +115,7 @@ Ad-hoc networks and Mobile Ad-hoc Networks (MANETs) are used in certain IoT
 scenarios where fixed infrastructure is not available. These networks are
 dynamic but face challenges such as security, bandwidth limitations, and power
 constraints.
+<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/ae24b4fe-b74f-4f69-86e1-f041f1033c5a" />
 <img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/f11c21b4-4f69-41f3-8061-4e218f4f4893" />
 
 
